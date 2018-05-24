@@ -1,5 +1,6 @@
 # Bulma Demo
-Trying out the [Bulma framework](https://bulma.io/)
+Trying out the [Bulma framework](https://bulma.io/).
+Bulma is an open source CSS framework based on Flexbox.
 
 ## Pages
 
